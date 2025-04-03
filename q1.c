@@ -1,3 +1,8 @@
+Given the two end points P1, P2 of a line segement P1P2, design an al-
+gorithm to generate n points on P1P2. Your algorithm should get the
+input n and accordingly output the x-coordinate, y-coordinate of all the
+n points. Analyse your algorithm with the time complexity.
+
 #include <stdio.h>
 #include <stdlib.h>
 
